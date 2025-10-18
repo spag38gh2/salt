@@ -1,0 +1,19 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Salt Project 3004.2",
+  "description": "Salt 3004.2 API reference and command documentation",
+  "folders": [],
+  "excludeFolders": [
+    ".github",
+    ".pre-commit-hooks",
+    "cicd",
+    "pkg",
+    "requirements",
+    "salt",
+    "tasks",
+    "tests"
+  ],
+  "excludeFiles": [],
+  "rules": [],
+  "previousVersions": []
+}
